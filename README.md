@@ -118,6 +118,7 @@ This project was built using **Antigravity (Google DeepMind)** as the primary AI
 - Reviewed API validation logic and error messages
 - Added `'use client'` directives where needed for App Router compatibility
 - **Architected complex UI logic**: Manually restructured the CSS Grid and Flexbox layouts (like the 'How We Deliver' timeline) when AI-generated code produced visual squashing and overlapping, ensuring pixel-perfect responsive alignment across all devices.
+- **Debugged API integrations:** Manually resolved state and history-parsing errors during the Gemini API integration, ensuring strict role-alternation compliance for smooth chatbot context.
 
 ---
 
