@@ -117,6 +117,7 @@ This project was built using **Antigravity (Google DeepMind)** as the primary AI
 - Ensured all interactive elements have unique, descriptive IDs for accessibility
 - Reviewed API validation logic and error messages
 - Added `'use client'` directives where needed for App Router compatibility
+- **Architected complex UI logic**: Manually restructured the CSS Grid and Flexbox layouts (like the 'How We Deliver' timeline) when AI-generated code produced visual squashing and overlapping, ensuring pixel-perfect responsive alignment across all devices.
 
 ---
 
@@ -145,6 +146,8 @@ This project was built using **Antigravity (Google DeepMind)** as the primary AI
 - [x] `POST /api/enquire` — validates and stores to `data/leads.json`
 - [x] `GET /api/enquire` — view all leads (for admin verification)
 - [x] Success/error states in modal form
+- [x] **Gemini AI Chatbot** — Floating learning advisor powered by `@google/generative-ai`
+- [x] `POST /api/chat` — Secure server-side endpoint handling Gemini model context
 
 ---
 
