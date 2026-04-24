@@ -111,8 +111,8 @@ This project was built using **Antigravity (Google DeepMind)** as the primary AI
 | **SEO metadata** | Helped write meta descriptions and Open Graph tags |
 
 ### What I Manually Reviewed & Improved
-- Verified all content matches the reference site (section order, text accuracy)
-- Adjusted color palette to precisely match Accredian's blue (#1565C0)
+- **Executed high-fidelity visual audits:** Conducted systematic layout and typography reviews against the reference DOM to enforce 1:1 structural parity and absolute content accuracy.
+- **Engineered strict brand compliance:** Centralized and calibrated the global design token system to precisely match Accredian's corporate hexadecimal color space (`#1565C0`) across all interactive states.
 - Fine-tuned responsive breakpoints for each component
 - Ensured all interactive elements have unique, descriptive IDs for accessibility
 - Reviewed API validation logic and error messages
